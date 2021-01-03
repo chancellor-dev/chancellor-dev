@@ -1,7 +1,9 @@
+<img width="100%" src="images/pacman.gif">
 <h1 align="center">안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ![](https://komarev.com/ghpvc/?username=chancellor-dev)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shinjam)](https://solved.ac/shinjam)
+
 
 
 <h3 align="center">Welcome to my humble footprints. I'm a Back-end developer from Seoul.</h3>
