@@ -15,7 +15,7 @@ I'm a Back-end developer from Seoul.
 - 📫 How to reach me: <a href="mailto: chancellor.dev@gmail.com">e-mail</a>
 
 #### Languages and Tools
-<img src = 'https://github.com/chancellor-dev/chancellor-dev/tree/main/images/html.svg' width='30'/> <img src = 'https://github.com/chancellor-dev/chancellor-dev/tree/main/images/css.svg' width='30'/> <img src = 'https://github.com/chancellor-dev/chancellor-dev/tree/main/images/js.svg' width='30'/> <img src = 'https://github.com/chancellor-dev/chancellor-dev/tree/main/images/django.svg' height='40'/> <img src = 'https://github.com/chancellor-dev/chancellor-dev/tree/main/images/git.svg' width='30'/>
+<img src='images/html.svg' width='30'/> <img src = 'images/css.svg' width='30'/> <img src = 'images/js.svg' width='30'/> <img src = 'images/django.svg' height='40'/> <img src = 'images/git.svg' width='30'/>
  
 
 
