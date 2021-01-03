@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a Back-end developer from Seoul.
-<img src = 'https://github.com/chancellor-dev/chancellor-dev/blob/main/image/dinosaur.gif?raw=true' alt = 'dinosaur' align='right'/>
+<img src = 'https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif' alt = 'dinosaur' align='right'/>
 
 
 #### Personal Stuff
