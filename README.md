@@ -1,8 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+Welcome to my humble footprints.
 I'm a Back-end developer from Seoul.
-<img src = 'https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif' alt = 'dinosaur' align='right'/>
-
 
 #### Personal Stuff
 - 🔭 I’m currently working on something cool
