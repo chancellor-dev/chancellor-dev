@@ -27,6 +27,8 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [pycharm redirect 설정](https://blog.chancellor.dev/Tutorial/pycharm-redirect-설정/pycharm-redirect-설정/)
+- [Gatsby로 시작하는 개발 블로그](https://blog.chancellor.dev/Essay/gatsby로-시작하는-개발-블로그/gatsby로-시작하는-개발-블로그/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
