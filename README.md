@@ -27,8 +27,8 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [ManyToMany에서 Relation 삭제](https://blog.chancellor.dev/Development/manytomany에서-relation-삭제/manytomany에서-relation-삭제/)
 - [Django 프로젝트를 위한 Pycharm Set up](https://blog.chancellor.dev/Tutorial/django-프로젝트를-위한-pycharm-set-up-/django-프로젝트를-위한-pycharm-set-up-/)
+- [ManyToMany에서 Relation 삭제](https://blog.chancellor.dev/Development/manytomany에서-relation-삭제/manytomany에서-relation-삭제/)
 - [pycharm redirect 설정](https://blog.chancellor.dev/Tutorial/pycharm-redirect-설정/pycharm-redirect-설정/)
 <!-- BLOG-POST-LIST:END -->
 
