@@ -27,9 +27,9 @@
 <h3 align="left">Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [운영체제(OS) 가볍게 훑어보기 - 01.Introduction](https://chancellor.dev/Programming/운영체제(os)-가볍게-훑어보기/운영체제(os)-가볍게-훑어보기/)
 - [ManyToMany에서 Relation 삭제](https://chancellor.dev/Development/manytomany에서-relation-삭제/manytomany에서-relation-삭제/)
 - [Django 프로젝트를 위한 Pycharm Set up](https://chancellor.dev/Tutorial/django-프로젝트를-위한-pycharm-set-up-/django-프로젝트를-위한-pycharm-set-up-/)
-- [pycharm redirect 설정](https://chancellor.dev/Tutorial/pycharm-redirect-설정/pycharm-redirect-설정/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
