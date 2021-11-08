@@ -28,7 +28,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [2021 오픈소스 컨트리뷰션 아카데미](https://chancellor.dev/Essay/2021-오픈소스-컨트리뷰션-아카데미/2021-오픈소스-컨트리뷰션-아카데미/)
-- [운영체제(OS) 가볍게 훑어보기 - 01.Introduction](https://chancellor.dev/Programming/운영체제(os)-가볍게-훑어보기/운영체제(os)-가볍게-훑어보기/)
+- [운영체제&lpar;OS&rpar; 가볍게 훑어보기 - 01.Introduction](https://chancellor.dev/Programming/운영체제(os)-가볍게-훑어보기/운영체제(os)-가볍게-훑어보기/)
 - [ManyToMany에서 Relation 삭제](https://chancellor.dev/Development/manytomany에서-relation-삭제/manytomany에서-relation-삭제/)
 <!-- BLOG-POST-LIST:END -->
 
